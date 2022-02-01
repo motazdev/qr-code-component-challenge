@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Here](https://motazdev.codes/p/fe-m-qr-code-component) ##-  [Or Here](https://fe-m-qr-code-comp.netlify.app/)
+- Live Site URL: [Here](https://motazdev.codes/p/fe-m-qr-code-component) /  [Or Here](https://fe-m-qr-code-comp.netlify.app/)
 
 ## My process
 
