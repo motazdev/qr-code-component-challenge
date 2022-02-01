@@ -51,3 +51,9 @@ body {
     font-weight: 400;
     color: var(--grayishBlue);
 }
+
+@media (max-width:525px) {
+    .card {
+        margin: 90px 10px 54px 10px;
+    }
+}
